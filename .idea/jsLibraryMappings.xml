@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <excludedPredefinedLibrary name="maufutsal_webapps_project/assets/vendor/jquery-idletimer/node_modules" />
+    <excludedPredefinedLibrary name="maufutsal_webapps_project/sweetalert/node_modules" />
+  </component>
+</project>
