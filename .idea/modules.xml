@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/maufutsal_webapps_project_2017.iml" filepath="$PROJECT_DIR$/.idea/maufutsal_webapps_project_2017.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mediapesona_project/.idea/mediapesona_project.iml" filepath="$PROJECT_DIR$/../mediapesona_project/.idea/mediapesona_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myflorist_webapps_project_new/.idea/myflorist_webapps_project_new.iml" filepath="$PROJECT_DIR$/../myflorist_webapps_project_new/.idea/myflorist_webapps_project_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../school_bell_project/.idea/school_bell_project.iml" filepath="$PROJECT_DIR$/../school_bell_project/.idea/school_bell_project.iml" />
     </modules>
   </component>
 </project>
