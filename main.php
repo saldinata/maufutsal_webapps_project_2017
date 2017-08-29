@@ -47,7 +47,7 @@
     <header id="sportsmagazine-headers" class="sportsmagazine-header-one">
     
 
-        <?php //include ("components/navigation.php"); ?>
+        <?php include ("components/navigation.php"); ?>
     </header>
     
     
